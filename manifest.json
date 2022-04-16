@@ -26,6 +26,16 @@
       "vendor": "venom"
     },
     {
+      "name": "Web3.World",
+      "chainId": 100,
+      "symbol": "W3W",
+      "decimals": 9,
+      "address": "0:b3b8e99950679042686863b1a20c8a51f0a1b62cc89e4e828ede3191fe7f713f",
+      "version": 5,
+      "verified": true,
+      "vendor": "web3world"
+    },
+    {
       "name": "Tether",
       "chainId": 100,
       "symbol": "USDT",
